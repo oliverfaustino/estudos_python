@@ -1,0 +1,1 @@
+print(len('oliver da silva faustino'))
